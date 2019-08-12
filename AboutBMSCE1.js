@@ -1,5 +1,5 @@
 
-
+//the summary part will be replaced by an image which ill forward in gmail when the designer sends it
 
 import React, {Fragment} from 'react';
 import {
