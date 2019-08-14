@@ -8,19 +8,27 @@ import {
   StatusBar,
   ScrollView,
   SafeAreaView,
-  ImageBackground
+  ImageBackground,
+  Easing
 } from 'react-native';
 
-export default class Schedule extends React.Component{
+export default class App extends React.Component{
     state = {
       animation: new Animated.Value(0),
     };
 startAnimation = () =>
 {
+  Animated.sequence([
   Animated.timing(this.state.animation , {
     toValue: 360,
-    duration: 3000,
-  }).start();
+    duration: 1000,
+    easing:Easing.linear,
+  }),
+  Animated.timing(this.state.animation , {
+    toValue: 0,
+    duration: 0,
+  }),
+]).start();
 
 }
 render() {
@@ -45,17 +53,6 @@ render() {
     <SafeAreaView>
     <ScrollView
         contentInsetAdjustmentBehavior="automatic">
-        <View style={{
-          alignItems:'flex-end',
-          resizeMode: 'contain',
-          padding:10,
-          paddingRight:0,
-          paddingTop:10,
-          paddingBottom:0,
-        }}>
-          <Image source={require('./assets/ps_logo_white_2019-07-31/ps_logo_white.png')} />
-        </View>
-
         <View style={{
           alignItems: 'center',
         justifyContent: 'center',
