@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 var { width, height } = Dimensions.get('window');
 
-export default class AboutUs extends React.Component {
+export default class Gif extends React.Component {
   render() {
     return (
       <Fragment>
