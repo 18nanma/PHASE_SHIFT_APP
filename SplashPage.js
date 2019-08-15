@@ -19,10 +19,10 @@ export default class Gif extends React.Component {
 
       <SafeAreaView>
 
-          <View>
+        <View>
           <Image source={require('./assets/shaft_6.gif')}
-        style={{width: width, height:height }} />
-          </View>
+              style={{width: width, height:height }} />
+        </View>
 
 
 
