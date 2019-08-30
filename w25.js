@@ -49,7 +49,8 @@ export default class w25 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-An individual Hands on workshop conducted by resource persons from industry having more than 20 years of experience at CISCO where students will learn about energy efficiency, reliable energy efficient smart homes using packet tracer software.                        <View style={{padding:7,
+An individual Hands on workshop conducted by resource persons from industry having more than 20 years of experience at CISCO where students will learn about energy efficiency, reliable energy efficient smart homes using packet tracer software.   </Text>           
+          <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
                             borderRadius: 4,
                             paddingLeft:10
