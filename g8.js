@@ -119,13 +119,13 @@ export default class g8 extends React.Component {
                    Round one will not allow usage of phones. Each team will get 4 minutes (2 minutes per member) to relay the maximum number of resources possible. In round 2, also will not allow usage of mobile phones. The write-up should be submitted in 30 minutes. For round 3, teams will be given 5 minutes to research, where they may use their mobiles. Thereafter, 40 minutes will be provided to formulate the business plan. The crisis will be told at halftime. All materials will be provided at the venue.
                          </Text>
 
-                  3. Participants cannot go off boundary and should only follow the path.
-                         </Text>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
                         color: 'rgba(255,255,255,1)',
                       }}>
 
+                    3. Participants cannot go off boundary and should only follow the path.
+                             </Text>
 
                     </View>
                     </View>
