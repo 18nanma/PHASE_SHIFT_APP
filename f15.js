@@ -6,10 +6,11 @@ import {
   ScrollView,
   SafeAreaView,
   Image,
-  Dimensions} from 'react-native';
-  const { width, height } = Dimensions.get('window');
+    Dimensions
+} from 'react-native';
+const { width, height } = Dimensions.get('window');
 
-export default class f9 extends React.Component {
+export default class f15 extends React.Component {
   render() {
     return (
       <Fragment>
@@ -40,7 +41,7 @@ export default class f9 extends React.Component {
                         paddingTop:20,
                         paddingBottom:30,
                         paddingLeft: 7
-                      }}>MECH-ASSEMBLE</Text>
+                      }}>CANSAT- SATELLITE IN A CAN</Text>
                     </View>
 
                     <View style={{paddingBottom: 20}}>
@@ -49,34 +50,38 @@ export default class f9 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-Assemble the given components on the given topic using the junk available and other amenities.                        <View style={{padding:7,
+                        A CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink
+can. The challenge for students is to fit all the major subsystems found in a satellite, such as power,
+sensors and a communication system, into this minimal volume.
+                        </Text>
+                        <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
                             borderRadius: 4,
                             paddingLeft:10
                           }}>
                         <Text style={{fontSize: 15,
                           }}>
-                           Participation: Team of 4
+                           Participation: Team of 3-5
                         </Text>
                           <Text style={{fontSize: 15,
                                 }}>
-                           Registration Fee: 200
+                           Registration Fee: 150 INR
+                        </Text>
+                          <Text style={{fontSize: 15,
+                                }}>
+                           Prize money:3000 INR+ Arduino kit; 1500 INR + Arduino kit
                         </Text>
                         <Text style={{fontSize: 15,
-                              }}>
-                         Prize money:1st-4000/-INR; 2nd-2000/-INR
+                            }}>
+                         Date: 15/09/2019
                       </Text>
                           <Text style={{fontSize: 15,
-                                }}>
-                           Date: 15/09/2019
-                        </Text>
-                          <Text style={{fontSize: 15,
                               }}>
-                           Time: 9:30 AM- 12:30PM
+                           Time: 10.00AM - 2.00PM
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue:Turbo LAB
+                           Venue: Library lawn & 4001
                         </Text>
                         </View>
                     </View>
@@ -97,27 +102,36 @@ Assemble the given components on the given topic using the junk available and ot
                     <View>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
-                      }}>1. Pre-defined Kit will be provided
+                      }}>
+		 The aim of the event is to build a Cansat that will consist of shape of soft drink can and payload.
                          </Text>
-                         <Text style={{paddingBottom: 20,
-                         fontSize: 15,
-                       }}>2. Lab facilities will be provided
-                          </Text>
-                          <Text style={{paddingBottom: 20,
-                          fontSize: 15,
-                        }}>3. A working model has to be assembled related to the theme.
-                           </Text>
-                           <Text style={{paddingBottom: 20,
-                           fontSize: 15,
-                         }}>4. Based on the condition provided, the assembled model will be judged.
-                            </Text>
-                            <Text style={{paddingBottom: 20,
-                            fontSize: 15,
-                          }}>5. The participant should assemble within the stipulated time frame.
-                             </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The team should also have other basic components like battery, communication module, antenna,etc integrated with the payload in the cylindrical shell.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The Cansat will raise to approximate height of 3 floors with the help of a Drone controlled by the organizers.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The payload should monitor ambient temperature, humidity ,attitude and pressure .
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The CanSat while hovering from the Drone should transmit the real time data from the payload to the ground on phone or laptop using an App or computer application.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 Bonus points will be awarded for integrating additional payload application like camera module, air quality sensor, etc into the payload. An Informative session will be conducted to let you know all the requirements and how to go about the event. https://bit.ly/2L8CBKl
+                         </Text>
+	   </View>
                     </View>
-                    </View>
-
                     <View style={{padding:10,
                     backgroundColor: '#00000000'}} />
                     <View style={{padding:7,
@@ -134,13 +148,19 @@ Assemble the given components on the given topic using the junk available and ot
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              1. Anikethan - 9620621673
+                              1.Divyam Salarpuria - 9540066305
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              2. Rishikesh S Nadgouda - 9945142696
+                              2.Priyanshu � 9739716351
                         </Text>
-
+                       <Text style={{fontSize: 15,
+                        }}>
+                              3.Sushir - 9964285755
+                        </Text>
+                       <Text style={{fontSize: 15,
+                        }}>
+                        </Text>
                     </View>
                   </View>
 

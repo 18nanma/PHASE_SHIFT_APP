@@ -6,10 +6,11 @@ import {
   ScrollView,
   SafeAreaView,
   Image,
-  Dimensions} from 'react-native';
-  const { width, height } = Dimensions.get('window');
+    Dimensions
+} from 'react-native';
+const { width, height } = Dimensions.get('window');
 
-export default class f9 extends React.Component {
+export default class f11 extends React.Component {
   render() {
     return (
       <Fragment>
@@ -40,7 +41,7 @@ export default class f9 extends React.Component {
                         paddingTop:20,
                         paddingBottom:30,
                         paddingLeft: 7
-                      }}>MECH-ASSEMBLE</Text>
+                      }}>E � WASTE FOR SUSTAINABILITY</Text>
                     </View>
 
                     <View style={{paddingBottom: 20}}>
@@ -48,35 +49,38 @@ export default class f9 extends React.Component {
                           paddingBottom: 20,
                         fontWeight: '600',
                         fontWeight: 'semibold',
+                        color: 'rgba(255,255,255,1)',
                         }}>
-Assemble the given components on the given topic using the junk available and other amenities.                        <View style={{padding:7,
+                         Teams will be given electronics waste. They have to come up with a functional Model using E-waste given for a sustainable environment.
+                        </Text>
+                        <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
                             borderRadius: 4,
                             paddingLeft:10
                           }}>
                         <Text style={{fontSize: 15,
-                          }}>
+                         }}>
                            Participation: Team of 4
                         </Text>
                           <Text style={{fontSize: 15,
-                                }}>
-                           Registration Fee: 200
+                               }}>
+                           Registration Fee: 200 INR
+                        </Text>
+                          <Text style={{fontSize: 15,
+                               }}>
+                           Prize money:1st-1000/-INR ; 2nd-600/-INR
                         </Text>
                         <Text style={{fontSize: 15,
-                              }}>
-                         Prize money:1st-4000/-INR; 2nd-2000/-INR
+                           }}>
+                         Date: 15/09/2019
                       </Text>
                           <Text style={{fontSize: 15,
-                                }}>
-                           Date: 15/09/2019
+                             }}>
+                           Time: 10.00PM to 4.00PM
                         </Text>
                           <Text style={{fontSize: 15,
-                              }}>
-                           Time: 9:30 AM- 12:30PM
-                        </Text>
-                          <Text style={{fontSize: 15,
-                            }}>
-                           Venue:Turbo LAB
+                           }}>
+                           Venue: AMC LAB, TCE DEPT
                         </Text>
                         </View>
                     </View>
@@ -92,32 +96,29 @@ Assemble the given components on the given topic using the junk available and ot
                           alignItems: 'flex-start',
                           paddingBottom:10,
                           fontWeight: 'bold',
-                          }}>Rules of the event:</Text>
+                         }}>Rules of the event:</Text>
                     </View>
                     <View>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
-                      }}>1. Pre-defined Kit will be provided
+                        color: 'rgba(255,255,255,1)',
+                      }}>
+		 Participants are supposed to get pen, paper and other stationary needed.
                          </Text>
-                         <Text style={{paddingBottom: 20,
-                         fontSize: 15,
-                       }}>2. Lab facilities will be provided
-                          </Text>
-                          <Text style={{paddingBottom: 20,
-                          fontSize: 15,
-                        }}>3. A working model has to be assembled related to the theme.
-                           </Text>
-                           <Text style={{paddingBottom: 20,
-                           fontSize: 15,
-                         }}>4. Based on the condition provided, the assembled model will be judged.
-                            </Text>
-                            <Text style={{paddingBottom: 20,
-                            fontSize: 15,
-                          }}>5. The participant should assemble within the stipulated time frame.
-                             </Text>
+	    <Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                        color: 'rgba(255,255,255,1)',
+                      }}>
+		They need to build something solely technical from the given E-Junk.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                        color: 'rgba(255,255,255,1)',
+                      }}>
+		 The final score depends upon the functionality of the model.
+                         </Text>
+	     </View>
                     </View>
-                    </View>
-
                     <View style={{padding:10,
                     backgroundColor: '#00000000'}} />
                     <View style={{padding:7,
@@ -131,16 +132,18 @@ Assemble the given components on the given topic using the junk available and ot
                           alignItems: 'flex-start',
                           paddingBottom:10,
                           fontWeight: 'bold',
-                          }}>Event Coordinators:</Text>
+                         }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
-                          }}>
-                              1. Anikethan - 9620621673
+                         }}>
+                              1.M Komala - 7259235988
                         </Text>
                         <Text style={{fontSize: 15,
-                          }}>
-                              2. Rishikesh S Nadgouda - 9945142696
+                         }}>
+                              2.Keerthana B - 9743101317
                         </Text>
-
+                       <Text style={{fontSize: 15,
+                       }}>
+                        </Text>
                     </View>
                   </View>
 

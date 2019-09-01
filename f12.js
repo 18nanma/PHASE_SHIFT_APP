@@ -6,10 +6,11 @@ import {
   ScrollView,
   SafeAreaView,
   Image,
-  Dimensions} from 'react-native';
-  const { width, height } = Dimensions.get('window');
+    Dimensions
+} from 'react-native';
+const { width, height } = Dimensions.get('window');
 
-export default class f9 extends React.Component {
+export default class f12 extends React.Component {
   render() {
     return (
       <Fragment>
@@ -40,7 +41,7 @@ export default class f9 extends React.Component {
                         paddingTop:20,
                         paddingBottom:30,
                         paddingLeft: 7
-                      }}>MECH-ASSEMBLE</Text>
+                      }}>MAKE-A-THON</Text>
                     </View>
 
                     <View style={{paddingBottom: 20}}>
@@ -49,34 +50,36 @@ export default class f9 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-Assemble the given components on the given topic using the junk available and other amenities.                        <View style={{padding:7,
+                         There's a few that possess the mettle and maven for a race against time. Engage on a 36 hour journey to innovate, design and discover.
+                        </Text>
+                        <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
                             borderRadius: 4,
                             paddingLeft:10
                           }}>
                         <Text style={{fontSize: 15,
                           }}>
-                           Participation: Team of 4
+                           Participation: Team of 2-3
                         </Text>
                           <Text style={{fontSize: 15,
                                 }}>
-                           Registration Fee: 200
+                           Registration Fee: 200 INR
+                        </Text>
+                          <Text style={{fontSize: 15,
+                                }}>
+                           Prize money:1st-Internship with ElectronoSolutions
                         </Text>
                         <Text style={{fontSize: 15,
-                              }}>
-                         Prize money:1st-4000/-INR; 2nd-2000/-INR
+                            }}>
+                         Date: 14/09/2019 & 15/09/2019
                       </Text>
                           <Text style={{fontSize: 15,
-                                }}>
-                           Date: 15/09/2019
-                        </Text>
-                          <Text style={{fontSize: 15,
                               }}>
-                           Time: 9:30 AM- 12:30PM
+                           Time: 12PM on 14th to 12 PM on 15th
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue:Turbo LAB
+                           Venue: Measurements lab
                         </Text>
                         </View>
                     </View>
@@ -97,27 +100,46 @@ Assemble the given components on the given topic using the junk available and ot
                     <View>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
-                      }}>1. Pre-defined Kit will be provided
+                      }}>
+		 It will be a 24 hour event that will happen in both days of Phase Shift.
                          </Text>
-                         <Text style={{paddingBottom: 20,
-                         fontSize: 15,
-                       }}>2. Lab facilities will be provided
-                          </Text>
-                          <Text style={{paddingBottom: 20,
-                          fontSize: 15,
-                        }}>3. A working model has to be assembled related to the theme.
-                           </Text>
-                           <Text style={{paddingBottom: 20,
-                           fontSize: 15,
-                         }}>4. Based on the condition provided, the assembled model will be judged.
-                            </Text>
-                            <Text style={{paddingBottom: 20,
-                            fontSize: 15,
-                          }}>5. The participant should assemble within the stipulated time frame.
-                             </Text>
+	    <Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		Problem statement will be given to the participants by the industry.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 Participants have to submit the solution 2 days prior to the Phase Shift. It will be evaluated and the best ones will be selected.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The 6 selected teams will get a chance to implement their solution during the 24 hrs.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The winners will  get a chance to intern with ELECTRONO SOLUTIONS.
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 All participants will get e-certificates
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 The winners and the runner-ups will get printed certificates with company logos
+                         </Text>
+		<Text style={{paddingBottom: 20,
+                        fontSize: 15,
+                      }}>
+		 Number of people in one team: 2 to 3
+                         </Text>
+	     </View>
                     </View>
-                    </View>
-
                     <View style={{padding:10,
                     backgroundColor: '#00000000'}} />
                     <View style={{padding:7,
@@ -134,13 +156,15 @@ Assemble the given components on the given topic using the junk available and ot
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              1. Anikethan - 9620621673
+                              1.Anusha- 7259491307
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              2. Rishikesh S Nadgouda - 9945142696
+                              2.K D Pathak- 8141483231
                         </Text>
-
+                       <Text style={{fontSize: 15,
+                        }}>
+                        </Text>
                     </View>
                   </View>
 
