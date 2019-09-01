@@ -15,14 +15,15 @@ export default class q9 extends React.Component {
     return (
       <Fragment>
       <StatusBar barStyle="dark-content" />
-      <View>
-      <Image source={require('../assets/ww.jpeg')}
-        style={{width:width,
-        height:150}}/>
-      </View>
+
       <SafeAreaView>
       <ScrollView
           contentInsetAdjustmentBehavior="automatic">
+          <View>
+          <Image source={require('../assets/ww.jpeg')}
+            style={{width:width,
+            height:150}}/>
+          </View>
             <View style={{paddingLeft:13,
                   paddingRight:13,
               }}>
