@@ -49,7 +49,9 @@ export default class f9 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-Assemble the given components on the given topic using the junk available and other amenities.                        <View style={{padding:7,
+Assemble the given components on the given topic using the junk available and other amenities.
+                    </Text>
+                   <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
                             borderRadius: 4,
                             paddingLeft:10
