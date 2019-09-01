@@ -151,10 +151,7 @@ THIRD ROUND: The best solution will be presented in front of the judges where th
                         }}>
                               3.RashmiPai- 7348940728
                         </Text>
-                       <Text style={{fontSize: 15,
-
-                       }}>
-                        </Text>
+                      
                     </View>
                   </View>
 
