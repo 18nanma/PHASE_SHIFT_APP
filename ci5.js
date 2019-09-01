@@ -108,7 +108,7 @@ export default class ci5 extends React.Component {
                       }}>
                     2.Judges decision is final.
 
-
+                    </Text>
                     </View>
                     </View>
                     <View style={{padding:10,

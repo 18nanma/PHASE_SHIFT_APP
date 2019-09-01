@@ -112,7 +112,7 @@ export default class ci4 extends React.Component {
                       ROUND 2: The participants will have to build a prototype of a system that can be made more 'energy
                       efficient' using sensors and Arduino. The participant picks his sensor to build an energy efficient prototype. Other necessary components will be provided.
 Pre -requisites- Basic knowledge of Arduino
-
+  </Text>
 
                     </View>
                     </View>
