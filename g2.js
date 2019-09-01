@@ -42,7 +42,6 @@ export default class g2 extends React.Component {
                         paddingTop:20,
                         paddingBottom:30,
                         paddingLeft: 7
-                        //HEADING
                       }}>FUSION RYDER</Text>
                     </View>
 
@@ -51,7 +50,6 @@ export default class g2 extends React.Component {
                           paddingBottom: 20,
                         fontWeight: '600',
                         fontWeight: 'semibold',
-                       =
                         }}>
 
                          Eco-Friendly vehicles have invaluable benefits to the environment. So keeping this concept in mind a fun filled path is designed.
@@ -65,7 +63,6 @@ The person who reaches the final line in the least amount of time will be consid
                             paddingLeft:10
                           }}>
                         <Text style={{fontSize: 15,
-                          =
                         }}>
 
                            Participation:  individual
@@ -86,12 +83,10 @@ The person who reaches the final line in the least amount of time will be consid
                          Date: 14/09/2019 & 15/09/2019
                       </Text>
                           <Text style={{fontSize: 15,
-
                           }}>
                            Time: Day 1- 11AM - 5PM ; Day 2-10AM-4PM
                         </Text>
                           <Text style={{fontSize: 15,
-
                         }}>
                            Venue:Mechanical block parking and Gopi wall
                         </Text>
@@ -115,30 +110,24 @@ The person who reaches the final line in the least amount of time will be consid
                     <View>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
-
                       }}>
 
                     1. Participants cannot use their own bikes.
                          </Text>
                          <Text style={{paddingBottom: 20,
                         fontSize: 15,
-
                       }}>
 
                   2. If the two wheeler is damaged while taking part in the event, the participants will be disqualified and they have to bear the expenses for the damage.
                          </Text>
                     <Text style={{paddingBottom: 20,
                         fontSize: 15,
-
                       }}>
-
                   3. Participants cannot go off boundary and should only follow the path.
                          </Text>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
-
                       }}>
-
                 4. Touching the bike to the path or any other objects aligned in the path can have a penalty in terms of time.
                          </Text>
 
@@ -160,17 +149,12 @@ The person who reaches the final line in the least amount of time will be consid
 
                         }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
-
                         }}>
-
                          1.Maurya Krishna - 8892638922
                         </Text>
-                        <Text style={{fontSize: 15,
-
-
+                        <Text style={{fontSize: 15}}>
                            2 Raghothama- 9986949379
                         </Text>
-
                     </View>
                   </View>
 
