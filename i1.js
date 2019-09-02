@@ -93,7 +93,7 @@ Round 2:- The participants would have to buy components with the virtual money t
                           <Text style={{fontSize: 15,
 
                         }}>
-                           Venue:EE6003 and EE6002
+                           Venue:EE6003 and EE6002, PG Block
                         </Text>
                         </View>
                     </View>
