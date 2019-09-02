@@ -78,7 +78,7 @@ export default class i8 extends React.Component {
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: IT Classroom 1
+                           Venue: IT Classroom 1, PG block 
                         </Text>
                         </View>
                     </View>
