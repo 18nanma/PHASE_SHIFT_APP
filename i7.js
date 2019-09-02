@@ -78,7 +78,7 @@ export default class i7 extends React.Component {
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: 7002
+                           Venue: 7002, PG Block 
                         </Text>
                         </View>
                     </View>
@@ -125,11 +125,11 @@ export default class i7 extends React.Component {
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                             1. Shreeshsrivatsav - 9071962240
+                             1. Shreesh Srivatsav - 9071962240
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                             2. Anvith r nayak - 9632381439
+                             2. Anvith R nayak - 9632381439
                         </Text>
                        <Text style={{fontSize: 15,
                         }}>
