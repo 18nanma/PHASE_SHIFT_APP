@@ -74,11 +74,11 @@ export default class i10 extends React.Component {
                       </Text>
                           <Text style={{fontSize: 15,
                               }}>
-                           Time: Day 1- 12:30PM - 3.00PM ; Day 2-11.00AM-2.00PM
+                           Time: Day 1- 12:30PM - 3.00PM ; Day 2- 11.00AM-2.00PM
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: MESH  hall
+                           Venue: MESH  hall, Mechanical Dept.
                         </Text>
                         </View>
                     </View>
@@ -154,7 +154,7 @@ export default class i10 extends React.Component {
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              1. Mohammed AftabAalam - 7411356977
+                              1. Mohammed Aftab Aalam - 7411356977
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
