@@ -74,7 +74,7 @@ export default class i2 extends React.Component {
                       </Text>
                           <Text style={{fontSize: 15,
                               }}>
-                           Time:11:00-3:00
+                           Time:11:00 AM - 3:00 PM
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
@@ -101,9 +101,9 @@ export default class i2 extends React.Component {
                         fontSize: 15,
                       }}>
                   Pre event:  Students are supposed to prepare a questionnaire (10 questions) on INDUSTRY 4.0.  Later, they will have to go to the industries like GE, INTEL, BOSCH,TOYOTA,HONDA etc  and meet company officials (any one of the 10) and get the answers of the questionnaire on INDUSTRY 4.0 and get the problem statement.Work on the problem statement and submit it on 13th September.
-Round 1: (45 mins)
+Round 1: (45 minutes)
 A panel discussion between the INDUSTRY OFFICIALS and students (Q & A round)
-Round 2: ( 1hour 15 mins)
+Round 2: ( 1hour 15 minutes)
 Presentation on the problem statement given to them ( in the form of a working model or prototype).
 Round 3: (1 hour)
 A group discussion between students which will be judged by the committee.
