@@ -69,7 +69,7 @@ The winner is based on who is closest to the given time and energy saved.
                           }}>
                         <Text style={{fontSize: 15,
                           }}>
-                           Participation:Team of 2
+                           Participation:Team of 4
                         </Text>
                           <Text style={{fontSize: 15,
                                 }}>
@@ -89,7 +89,7 @@ The winner is based on who is closest to the given time and energy saved.
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue:Taylor hall, IEM
+                           Venue:Taylor hall, IEM Dept, Mech block
                         </Text>
                         </View>
                     </View>
@@ -144,11 +144,11 @@ The winner is based on who is closest to the given time and energy saved.
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                        1. KhushiSoni - 9738306774
+                        1. Khushi Soni - 9738306774
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                        2. Krittivassan- 8971769588
+                        2. Kritti Vassan- 8971769588
                         </Text>
 
                     </View>
