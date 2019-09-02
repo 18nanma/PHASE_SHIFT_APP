@@ -73,7 +73,7 @@ export default class i12 extends React.Component {
                       </Text>
                           <Text style={{fontSize: 15,
                               }}>
-                           Time: Day 1-11AM - 5PM ; Day 2-11AM - 5PM
+                           Time: Day 1: 11AM - 5PM ; Day 2: 11AM - 5PM
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
@@ -127,7 +127,7 @@ export default class i12 extends React.Component {
                         </Text>
                        <Text style={{fontSize: 15,
                         }}>
-                              3.SushanthHegde- 9880801980
+                              3.Sushanth Hegde- 9880801980
                         </Text>
                        <Text style={{fontSize: 15,
                         }}>
