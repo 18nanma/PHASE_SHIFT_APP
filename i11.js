@@ -79,7 +79,7 @@ MICROCONTROLLER kits provided to them
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: AEC Lab, TCE Dept
+                           Venue: AEC Lab, TCE Dept, New building. 
                         </Text>
                         </View>
                     </View>
@@ -135,7 +135,7 @@ MICROCONTROLLER kits provided to them
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              2.Bindushree V- 9663141083
+                              2.Swathi D G - 7760105016 
                         </Text>
                        <Text style={{fontSize: 15,
                         }}>
