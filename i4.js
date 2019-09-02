@@ -58,7 +58,7 @@ export default class i4 extends React.Component {
                           }}>
                         <Text style={{fontSize: 15,
                           }}>
-                           Participation:Team of 3
+                           Participation:Team of 2
                         </Text>
                           <Text style={{fontSize: 15,
                                 }}>
@@ -78,7 +78,7 @@ export default class i4 extends React.Component {
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue:: FHT lab
+                           Venue:: FHT lab, Mech block 
                         </Text>
                         </View>
                     </View>
@@ -100,17 +100,16 @@ export default class i4 extends React.Component {
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
                       }}>
-                  1. Students should come with an innovative solution for a given question in that stipulated time frame.
+                  ROUND 1- 1. An experimental setup would be provided. 2.The participants have to perform the experiment and obtain the results.
                          </Text>
                         <Text style={{paddingBottom: 20,
                         fontSize: 15,
                       }}>
-                 2. Students are needed to execute that solution in the form of concept model.
-                         </Text>
+                  ROUND 2-1. Based on the experimental setup a challenging task would be given. 2. Participants have to come up with an innovative solution if the form of a concept model.                         </Text>
                    <Text style={{paddingBottom: 20,
                         fontSize: 15,
                       }}>
-3. The most innovative and efficient mechanism will be awarded with exciting prices.
+3. The decision of the judges is final. 
                          </Text>
 
                     </View>
