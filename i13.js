@@ -48,7 +48,7 @@ export default class i13 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-                        Humans are bound to exhaust the energy resources on earth. If you had the chance to do it all over again, how would you? Bring out your inner engineer to design a city and build an eco-paradise that supports sustainable living based on a given onspot scenario. Designs can be hypothetical ideas, theories or plans.
+                        Humans are bound to exhaust the energy resources on earth. If you had the chance to do it all over again, how would you? Bring out your inner engineer to design a city and build an eco-paradise that supports sustainable living based on a given on spot scenario. Designs can be hypothetical ideas, theories or plans.
                         </Text>
                         <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
@@ -77,7 +77,7 @@ export default class i13 extends React.Component {
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: BT Classroom-1
+                           Venue: BT Classroom-1, PG block 
                         </Text>
                         </View>
                     </View>
