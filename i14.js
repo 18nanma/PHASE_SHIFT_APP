@@ -15,14 +15,15 @@ export default class i14 extends React.Component {
     return (
       <Fragment>
       <StatusBar barStyle="dark-content" />
-      <View>
-      <Image source={require('../assets/ww.jpeg')}
-        style={{width:width,
-        height:150}}/>
-      </View>
+
       <SafeAreaView>
       <ScrollView
           contentInsetAdjustmentBehavior="automatic">
+          <View>
+          <Image source={require('../assets/ww.jpeg')}
+            style={{width:width,
+            height:150}}/>
+          </View>
             <View style={{paddingLeft:13,
                   paddingRight:13,
               }}>
@@ -48,7 +49,7 @@ export default class i14 extends React.Component {
                         fontWeight: '600',
                         fontWeight: 'semibold',
                         }}>
-                        Humans are bound to exhaust the energy resources on earth. If you had the chance to do it all over again, how would you? Bring out your inner engineer to design a city and build an eco-paradise that supports sustainable living based on a given onspot scenario. Designs can be hypothetical ideas, theories or plans.
+The teams have to come up with a new product or modify an existing product. The product should be innovative and promote Sustainability.
                         </Text>
                         <View style={{padding:7,
                               backgroundColor: 'rgba(0,0,0,0.4)',
@@ -77,7 +78,7 @@ export default class i14 extends React.Component {
                         </Text>
                           <Text style={{fontSize: 15,
                             }}>
-                           Venue: MBA Classroom-2
+                           Venue: MBA Classroom-2, PG block
                         </Text>
                         </View>
                     </View>
@@ -119,11 +120,11 @@ export default class i14 extends React.Component {
                           }}>Event Coordinators:</Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              1.Chiranth N-8792370558
+                              1.Chiranth N - 8792370558
                         </Text>
                         <Text style={{fontSize: 15,
                           }}>
-                              2.Shreya B-8050227715
+                              2.Shreya B.S.- 8050227715
                         </Text>
                        <Text style={{fontSize: 15,
                         }}>
